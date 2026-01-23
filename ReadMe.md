@@ -14,7 +14,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberloop001&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
 </nobr>
 
-![github trophies](https://github-trophies.vercel.app/?username=cyberloop001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![github trophies](https://github-trophies.vercel.app/?username=cyberloop001&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/cyberloop001/cyberloop001/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
