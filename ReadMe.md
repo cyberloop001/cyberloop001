@@ -9,10 +9,10 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-<nobr>
+<!-- <nobr>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberloop001&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberloop001&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
-</nobr>
+</nobr> -->
 
 ![github trophies](https://github-trophies.vercel.app/?username=cyberloop001&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
